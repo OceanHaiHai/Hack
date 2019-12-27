@@ -72,7 +72,7 @@
 #### [视频教程 2.3 多进程编程](https://t.zsxq.com/AMVjqbu)
 #### [视频教程 3.1 Socket编程基础](https://t.zsxq.com/euNzrFA)
 #### [视频教程 3.2 一个简单木马](https://t.zsxq.com/bMRrb6e)
-#### [视频教程 3.3  多连接、非阻塞的服务端、客户端编程]()
+#### [视频教程 3.3  多连接、非阻塞的服务端、客户端编程](https://t.zsxq.com/2bqrrNb)
 
 
 ----
@@ -155,16 +155,17 @@
 #### [ctf 与内网渗透入门-视频教程2.1](https://t.zsxq.com/NVBujIU)
 #### [CTF 与内网渗透 视频教程  2.2 节 Union Injection](https://t.zsxq.com/6EYjY7u)
 #### [CTF 与内网渗透 视频教程 2.3 节 字符型注入](https://t.zsxq.com/72BEeMV)
-#### [ctf与内网渗透 视频教程 2.4节](https://t.zsxq.com/Jmi6YfI)
-#### [ctf 与 内网渗透--视频教程 2.5  文件注入](https://t.zsxq.com/3VJYFqn)
-#### [ctf 与内网渗透 视频教程 2.6 盲注](https://t.zsxq.com/IQFeQrV)
-#### [ctf 与内网渗透 视频教程 2.7 post注入](https://t.zsxq.com/nEuVbqz)
+#### [ctf 与内网渗透 视频教程 2.4节](https://t.zsxq.com/Jmi6YfI)
+#### [ctf 与内网渗透 视频教程 2.5  文件注入](https://t.zsxq.com/3VJYFqn)
+#### [ctf 与内网渗透 视频教程  2.6 盲注](https://t.zsxq.com/IQFeQrV)
+#### [ctf 与内网渗透 视频教程  2.7 post注入](https://t.zsxq.com/nEuVbqz)
 #### [ctf 与内网渗透 视频教程  2.8 cookie 注入](https://t.zsxq.com/iUvBMJi)
 #### [ctf 与内网渗透 视频教程  2.9 cookie 注入](https://t.zsxq.com/a2nurvZ)
 #### [ctf 与内网渗透 视频教程  3.1 sql map 安装](https://t.zsxq.com/aem66Eu)
 #### [ctf 与内网渗透 视频教程  3.2 Access环境搭建](https://t.zsxq.com/QJ66qzv)
 #### [ctf 与内网渗透 视频教程  3.3 SQL Map 使用 上](https://t.zsxq.com/uNbmYBy)
-
+#### [ctf 与内网渗透 视频教程  3.4 sql map 使用 下](https://t.zsxq.com/7ieiM3V)
+#### [ctf 与内网渗透 视频教程  3.5 sql 交互式命令与shell](https://t.zsxq.com/7ieiM3V)
 ---
 ### Kali Linux 视频教程
 

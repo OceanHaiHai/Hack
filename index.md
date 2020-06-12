@@ -355,7 +355,24 @@ SRC挖掘指南	00:18:05
 ```
 ---
 ### 玄魂工作室与08067 合作web安全教程
-#### [2.1 - 环境搭建]()
+#### [2.1 - 环境搭建](https://t.zsxq.com/mmMnMRj)
+#### [2.2 - 搭建wamp](https://t.zsxq.com/3R3bYzv)
+#### [2.3 - 搭建dvwa环境](https://t.zsxq.com/EunYzjY)
+#### [2.4 - 搭建sql注入平台](https://t.zsxq.com/F6yrFyf)
+#### [2.5 -  xss 平台搭建](https://t.zsxq.com/EUZnIii)
+#### [3.1.1 - sqlmap（1）](https://t.zsxq.com/AAyRvf6)
+#### [3.1.2 - sqlmap（2）](https://t.zsxq.com/iqvFUrN)
+#### [3.1.3 - sqlmap（3）](https://t.zsxq.com/r72fqfU)
+#### [3.2.1 burpsuite1](https://t.zsxq.com/fMzjAyB)
+#### [3.2.2 burpsuit实战](https://t.zsxq.com/iy7eIUj)
+#### [3.2.3 burpsuit实战](https://t.zsxq.com/Rjey3FA)
+#### [3.3.1  nmap 实战1](https://t.zsxq.com/IiqfiY7)
+#### [3.3.2  nmap 实战2](https://t.zsxq.com/VF2RRba)
+#### [3.3.3  nmap 实战3](https://t.zsxq.com/RZVVbaI)
+#### [ 4.1.1 sql注入（1）](https://t.zsxq.com/FY3feUB)
+
+
+
 
 ---
 ### 漏洞实战

@@ -140,8 +140,63 @@
 #### [2.11 sql注入之user-agent注入](https://github.com/xuanhun/web-hack)
 #### [3.1 文件上传基础](https://github.com/xuanhun/web-hack)
 #### [3.2 客户端js验证绕过](https://github.com/xuanhun/web-hack)
----
 
+---
+#### [CTF重构课程 --- 第 1.1 课 --- Web简介与HTTP](https://t.zsxq.com/BUrVV7u)
+#### [CTF重构课程 --- 第 1.2 课 --- HTML基础](https://t.zsxq.com/UznqJIu)
+#### [CTF重构课程 --- 第 1.3 课 --- JavaScript基础](https://t.zsxq.com/ZrByvjq)
+#### [CTF重构课程 --- 第 1.4 课 --- Mysql基础](https://t.zsxq.com/MnUJiEA)
+#### [CTF重构课程 --- 第 1.5 课 --- PHP基础](https://t.zsxq.com/qNZjMBm)
+#### [CTF重构课程 --- 第 1.6 课 --- XSS基础](https://t.zsxq.com/3jYv3Rr)
+#### [CTF重构课程 --- 第 1.7 课 --- CSRF基础](https://t.zsxq.com/EYz3bqF)
+#### [CTF重构课程 --- 第 1.8 课 --- 文件包含漏洞](https://t.zsxq.com/Nbu33Vn)
+#### [CTF重构课程 --- 第 1.9 课 --- 文件包含漏洞](https://t.zsxq.com/2FamimU)
+#### [CTF重构课程 --- 第 2.1 课 --- BurpSuite工具基础教程](https://t.zsxq.com/UNVfmai)
+#### [CTF重构课程 --- 第 2.2 课 --- Nmap工具基础教程](https://t.zsxq.com/7yJUBIa)
+#### [CTF重构课程 --- 第 2.3 课 --- Sqlmap基础使用教程](https://t.zsxq.com/VVBMfuJ)
+#### [CTF重构课程 --- 第 2.4 课 --- 敏感目录扫描课程](https://t.zsxq.com/eqrRfQR)
+#### [CTF重构课程 --- 第 3.1.1 课 --- CobaltStrike简介及安装启动](https://t.zsxq.com/IUJU7Mj)
+#### [CTF重构课程 --- 第 3.1.2 课 --- CobaltStrike简介及安装启动](https://t.zsxq.com/IUJU7Mj)
+#### [CTF重构课程 --- 第 3.1.3 课 --- CobaltStrike简介及安装启动](https://t.zsxq.com/IUJU7Mj)
+#### [CTF重构课程 --- 第 3.1.4 课 --- Metsploit食用指南](https://t.zsxq.com/nuVrvVb)
+
+
+---
+### 玄魂工作室与08067 合作web安全教程
+#### [2.1 - 环境搭建](https://t.zsxq.com/mmMnMRj)
+#### [2.2 - 搭建wamp](https://t.zsxq.com/3R3bYzv)
+#### [2.3 - 搭建dvwa环境](https://t.zsxq.com/EunYzjY)
+#### [2.4 - 搭建sql注入平台](https://t.zsxq.com/F6yrFyf)
+#### [2.5 -  xss 平台搭建](https://t.zsxq.com/EUZnIii)
+#### [3.1.1 - sqlmap（1）](https://t.zsxq.com/AAyRvf6)
+#### [3.1.2 - sqlmap（2）](https://t.zsxq.com/iqvFUrN)
+#### [3.1.3 - sqlmap（3）](https://t.zsxq.com/r72fqfU)
+#### [3.2.1 burpsuite1](https://t.zsxq.com/fMzjAyB)
+#### [3.2.2 burpsuit实战](https://t.zsxq.com/iy7eIUj)
+#### [3.2.3 burpsuit实战](https://t.zsxq.com/Rjey3FA)
+#### [3.3.1  nmap 实战1](https://t.zsxq.com/IiqfiY7)
+#### [3.3.2  nmap 实战2](https://t.zsxq.com/VF2RRba)
+#### [3.3.3  nmap 实战3](https://t.zsxq.com/RZVVbaI)
+#### [ 4.1.1 sql注入（1）](https://t.zsxq.com/FY3feUB)
+
+#### []()
+#### [ 4.1.3   sql 注入3](https://t.zsxq.com/6ea2VZR)
+#### [4.1.4  sql注入 4](https://t.zsxq.com/au7AMNb)
+#### [4.1.5  sql注入 5](https://t.zsxq.com/i6qzZzN)
+#### [4.1.6  sql 注入6](https://t.zsxq.com/jEuVjYv)
+#### [4.1.7 sql 注入7](https://t.zsxq.com/7QvbUF6)
+#### [4.1.8 sql 注入8](https://t.zsxq.com/FAMZFuV)
+#### [4.1.9 sql 注入9](https://t.zsxq.com/r7AmYBE)
+#### [4.5 xss1 ](https://t.zsxq.com/j2FQFAY)
+#### [4.5 xss2 ](https://t.zsxq.com/beUBUnQ)
+#### [4.5 xss3 ](https://t.zsxq.com/zjau7iE)
+#### [4.5 xss4 ](https://t.zsxq.com/myrZb6Y)
+#### [4.6 csrf ](https://t.zsxq.com/Yzv7YJU)
+#### [4.6 csrf ](https://t.zsxq.com/Yzv7YJU)
+#### [4.7 ssrf](https://t.zsxq.com/qjY7iUB)
+#### [4.8.1 文件上传1](https://t.zsxq.com/BQfaMV7)
+#### [4.8.2 文件上传2](https://t.zsxq.com/3bmU3NB)
+---
 
 ---
 
@@ -354,27 +409,7 @@ SRC挖掘指南	00:18:05
 课程时长共计：632分钟=16.3小时
 ```
 ---
-### 玄魂工作室与08067 合作web安全教程
-#### [2.1 - 环境搭建](https://t.zsxq.com/mmMnMRj)
-#### [2.2 - 搭建wamp](https://t.zsxq.com/3R3bYzv)
-#### [2.3 - 搭建dvwa环境](https://t.zsxq.com/EunYzjY)
-#### [2.4 - 搭建sql注入平台](https://t.zsxq.com/F6yrFyf)
-#### [2.5 -  xss 平台搭建](https://t.zsxq.com/EUZnIii)
-#### [3.1.1 - sqlmap（1）](https://t.zsxq.com/AAyRvf6)
-#### [3.1.2 - sqlmap（2）](https://t.zsxq.com/iqvFUrN)
-#### [3.1.3 - sqlmap（3）](https://t.zsxq.com/r72fqfU)
-#### [3.2.1 burpsuite1](https://t.zsxq.com/fMzjAyB)
-#### [3.2.2 burpsuit实战](https://t.zsxq.com/iy7eIUj)
-#### [3.2.3 burpsuit实战](https://t.zsxq.com/Rjey3FA)
-#### [3.3.1  nmap 实战1](https://t.zsxq.com/IiqfiY7)
-#### [3.3.2  nmap 实战2](https://t.zsxq.com/VF2RRba)
-#### [3.3.3  nmap 实战3](https://t.zsxq.com/RZVVbaI)
-#### [ 4.1.1 sql注入（1）](https://t.zsxq.com/FY3feUB)
 
-
-
-
----
 ### 漏洞实战
 
 1. [web logic漏洞重现与攻防实战图文+视频教程(完整版）](https://mp.weixin.qq.com/s/9n8aqFgqbqS1FRX2ypzf9g)

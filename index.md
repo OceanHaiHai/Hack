@@ -11,7 +11,20 @@
 
 ## 1. 原创培训教程目录（持续更新中.....)
 
+### 移动端 逆向教程
+#### [教程介绍](https://mp.weixin.qq.com/s/VhsGnGecmR2Cc750JLb5vA)
 
+#### [第一章 环境准备](https://t.zsxq.com/euF6iIq)
+
+#### [2.1.1 环境搭建](https://t.zsxq.com/aYjyzFi)
+#### [2.1.2 apk文件结构](https://t.zsxq.com/EyZBUF2)
+#### [2.1.3 Androidkiller工具安装和使用](https://t.zsxq.com/iA2FeQB)
+
+#### [2.1.4 修改apk图标 二次打包](https://t.zsxq.com/JImYvZF)
+
+ #### [2.1.5  实现分身](https://t.zsxq.com/qBAyNbA)
+
+---
 ### Python黑客编程之极速入门
 #### [教程介绍](https://github.com/xuanhun/PythonHackingBook1/blob/master/README.md)
 #### [大纲](https://github.com/xuanhun/PythonHackingBook1/blob/master/%E5%A4%A7%E7%BA%B2.md)
@@ -196,6 +209,11 @@
 #### [4.7 ssrf](https://t.zsxq.com/qjY7iUB)
 #### [4.8.1 文件上传1](https://t.zsxq.com/BQfaMV7)
 #### [4.8.2 文件上传2](https://t.zsxq.com/3bmU3NB)
+#### [4.8.7 文件上传3](https://t.zsxq.com/VbMNVjm)
+#### [4.8.9 文件上传4](https://t.zsxq.com/v3Vjmq7)
+#### [4.8.11 文件上传5](https://t.zsxq.com/qrVJiYZ)
+#### [4.9.1  暴力破解](https://t.zsxq.com/RZ3jauB)
+#### [4.10  命令执行](https://t.zsxq.com/ZzzVvjA)
 ---
 
 ---

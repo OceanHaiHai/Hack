@@ -21,8 +21,24 @@
 #### [2.1.3 Androidkiller工具安装和使用](https://t.zsxq.com/iA2FeQB)
 
 #### [2.1.4 修改apk图标 二次打包](https://t.zsxq.com/JImYvZF)
-
  #### [2.1.5  实现分身](https://t.zsxq.com/qBAyNbA)
+  #### [2.1.6 实战去广告 ](https://t.zsxq.com/jI62fmU)
+ #### [2.2 java 语言基础](https://t.zsxq.com/e2VF6M7)
+  #### [2.3 安卓开发基础](https://t.zsxq.com/zfaE6Uv)
+  #### [2.4 虚拟机与字节码](https://t.zsxq.com/ZFi2RJa)
+ #### [2.5 破解及相关工具](https://t.zsxq.com/ZFi2RJa)
+  #### [2.6 安卓 ndk ](https://t.zsxq.com/nyJmQBa)
+   #### [3.1 IDA常用模块](https://t.zsxq.com/Ufemayz)
+  #### [3.2 APK保护策略](https://t.zsxq.com/YnaYzNN)
+ #### [3.3 反调试](https://t.zsxq.com/jyvNfEq)
+
+ #### [ 3.4 hook](https://t.zsxq.com/vbYbiqN)
+#### [3.4 xposed](https://t.zsxq.com/jyBAI2b)
+#### [3.5 frida 脱壳](https://t.zsxq.com/RVj2VrZ)
+#### [3.6  加密解密](https://t.zsxq.com/3z7QRv3)
+ #### [3.7  协议分析](https://t.zsxq.com/y3bmiIu)
+
+
 
 ---
 ### Python黑客编程之极速入门
